@@ -1,0 +1,3 @@
+http://example.com/svn/ <= ไม่รวมลำตัวหรือสาขา
+http://example.com/hg
+https://tfs.example.com/tfs <= เราจะหาว่าโครงการใดต่อไป
